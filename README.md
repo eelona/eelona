@@ -4,7 +4,6 @@
 🌱 I’m currently learning full-stack web development, focusing on JavaScript, React, and Node.js.
 💞️ I’m looking to collaborate on open-source projects and initiatives that aim to make a positive impact on society.
 📫 How to reach me: Feel free to email me at eelonathaqi@gmail.com or connect with me on LinkedIn.
-⚡ Fun fact: I love experimenting with new recipes in the kitchen and often find parallels between cooking and coding!
 
 
 <!---
